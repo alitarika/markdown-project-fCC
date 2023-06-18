@@ -1,0 +1,19 @@
+blockquote {
+  background-color: rgba(202, 211, 214, 0.601);
+}
+
+pre {
+  background-color: rgba(197, 116, 116, 0.793);
+}
+
+img {
+  width: 25vw;
+}
+
+h1,h2,h3,h4 {
+  text-align: center;
+}
+
+textarea {
+  min-height: 30vh;
+}
